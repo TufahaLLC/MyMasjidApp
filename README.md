@@ -1,4 +1,4 @@
-# model-repo
+# MyMasjid
 <p align="center">
 <img src="https://res.cloudinary.com/atapas/image/upload/v1632156569/demos/GitHub-Projects_tyxnkl.png" alt="name"/>
 <p/>
